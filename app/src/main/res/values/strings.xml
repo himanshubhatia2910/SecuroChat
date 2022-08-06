@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatMate</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">User Name</string>
+    <string name="userid">User Id/Email id</string>
+    <string name="mnumber">Mobile Number</string>
+    <string name="password">Password</string>
+</resources>

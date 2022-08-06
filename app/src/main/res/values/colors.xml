@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="positive">#4CAF50</color>
+    <color name="dashboard_back">#E8F5E9</color>
+
+    <color name="colorPrimary">#7360f2</color>
+    <color name="colorPrimaryDark">#742B81</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="grey">#D8D3C6</color>
+
+    <color name="colorPinkProgressBarStart">#ffffff</color>
+    <color name="colorPinkProgressBarEnd">#B40107</color>
+    <color name="textcolor">#000000</color>
+    <color name="whitecolor">#ffffff</color>
+    <color name="blockColor">#E2E3E5</color>
+    <color name="btnColor">#F6B621</color>
+    <color name="welcomScreenCaptionColor">#BA5F27</color>
+    <color name="toolbarcolor">#f15159</color>
+    <color name="circleBorder">#AD1C22</color>
+    <color name="tabselectedcolor">#B9B6B6</color>
+    <color name="footercolor">#FF6D00</color>
+    <color name="color_green">#00A000</color>
+    <color name="color_gray">#E7E7E7</color>
+    <color name="color_transperent">#00FFFFFF</color>
+    <color name="color_tabbg">#D5D3D3</color>
+    <color name="color_gray_light">#C1C1C1</color>
+    <color name="color_gray_dark">#A0A0A0</color>
+    <color name="color_gray_darker">#6B6868</color>
+    <color name="color_green_sales">#45D458</color>
+    <color name="color_orange_sales">#FFB820</color>
+    <color name="color_sky_blue">#01D2D7</color>
+    <color name="color_light_green_sales">#B2DA39</color>
+
+    <color name="hint_enter_note">#89c3c3c3</color>
+
+
+    <!--<&#45;&#45;Screens background color&ndash;&gt;-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#A005F1</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen5">#CDDFF3</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#5067EB</color>
+
+
+    <color name="transparent">#0D000000</color>
+    <color name="blue_button">#007B9F</color>
+    <color name="bg">#1C425E</color>
+
+    //black color
+    <color name="black_font1">#212121</color>
+    <color name="black_font2">#424242</color>
+    <color name="black_font3">#616161</color>
+    <color name="black_font4">#757575</color>
+    <color name="black_font5">#9E9E9E</color>
+    <color name="black_font6">#BDBDBD</color>
+    <color name="black_font7">#E0E0E0</color>
+    <color name="black_font8">#EEEEEE</color>
+    <color name="black_font9">#F5F5F5</color>
+    <color name="black_font10">#FAFAFA</color>
+
+
+    //blue color
+    <color name="blue_font1">#0D47A1</color>
+    <color name="blue_font2">#1565C0</color>
+    <color name="blue_font3">#1976D2</color>
+    <color name="blue_font4">#1E88E5</color>
+    <color name="blue_font5">#2196F3</color>
+    <color name="blue_font6">#42A5F5</color>
+    <color name="blue_font7">#64B5F6</color>
+    <color name="blue_font8">#90CAF9</color>
+    <color name="blue_font9">#BBDEFB</color>
+    <color name="blue_font10">#E3F2FD</color>
+
+
+    //light blue color
+    <color name="light_blue_font1">#01579B</color>
+    <color name="light_blue_font2">#0277BD</color>
+    <color name="light_blue_font3">#0288D1</color>
+    <color name="light_blue_font4">#039BE5</color>
+    <color name="light_blue_font5">#03A9F4</color>
+    <color name="light_blue_font6">#29B6F6</color>
+    <color name="light_blue_font7">#4FC3F7</color>
+    <color name="light_blue_font8">#81D4FA</color>
+    <color name="light_blue_font9">#B3E5FC</color>
+    <color name="light_blue_font10">#E1F5FE</color>
+
+
+    //red color
+    <color name="red_font1">#B71C1C</color>
+    <color name="red_font2">#C62828</color>
+    <color name="red_font3">#D32F2F</color>
+    <color name="red_font4">#E53935</color>
+    <color name="red_font5">#F44336</color>
+    <color name="red_font6">#EF5350</color>
+    <color name="red_font7">#E57373</color>
+    <color name="red_font8">#EF9A9A</color>
+    <color name="red_font9">#FFCDD2</color>
+    <color name="red__font10">#FFEBEE</color>
+    <color name="codeGray">#e7e7e7</color>
+
+    //green font
+    <color name="green_font1">#1B5E20</color>
+    <color name="green_font2">#2E7D32</color>
+    <color name="green_font3">#388E3C</color>
+    <color name="green_font4">#43A047</color>
+    <color name="green_font5">#4CAF50</color>
+    <color name="green_font6">#66BB6A</color>
+    <color name="green_font7">#81C784</color>
+    <color name="green_font8">#A5D6A7</color>
+    <color name="green_font9">#C8E6C9</color>
+    <color name="green__font10">#E8F5E9</color>
+
+
+    //indigo font
+    <color name="indigo_font1">#1A237E</color>
+    <color name="indigo_font2">#283593</color>
+    <color name="indigo_font3">#303F9F</color>
+    <color name="indigo_font4">#3949AB</color>
+    <color name="indigo_font5">#3F51B5</color>
+    <color name="indigo_font6">#5C6BC0</color>
+    <color name="indigo_font7">#7986CB</color>
+    <color name="indigo_font8">#9FA8DA</color>
+    <color name="indigo_font9">#C5CAE9</color>
+    <color name="indigo__font10">#E8EAF6</color>
+
+
+    //yellow font
+    <color name="yellow_font1">#F57F17</color>
+    <color name="yellow_font2">#F9A825</color>
+    <color name="yellow_font3">#FBC02D</color>
+    <color name="yellow_font4">#FDD835</color>
+    <color name="yellow_font5">#FFEB3B</color>
+    <color name="yellow_font6">#FFEE58</color>
+    <color name="yellow_font7">#FFF176</color>
+    <color name="yellow_font8">#FFF59D</color>
+    <color name="yellow_font9">#FFF9C4</color>
+    <color name="yellow__font10">#FFFDE7</color>
+
+    <color name="purple_500">#742B81</color>
+    <color name="purple_200">#895193</color>
+    <color name="purple_700">#742B81</color>
+
+    <color name="teal_200">#742B81</color>
+    <color name="teal_700">#895193</color>
+
+</resources>
