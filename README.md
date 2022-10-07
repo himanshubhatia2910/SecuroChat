@@ -79,6 +79,6 @@ Install our project with the help of apk file present above.
 Screenshots available [here.](https://drive.google.com/drive/folders/1xgbOg6CjawEmcc-dGiML0SKuK9Ai3GTy?usp=sharing)
 
 ## Contributors
-<a href = "https://github.com/himanshubhatia2910/SecuroChat/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<a href="https://github.com/himanshubhatia2910/SecuroChat/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=himanshubhatia2910/SecuroChat" />
 </a>
