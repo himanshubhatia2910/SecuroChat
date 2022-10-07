@@ -80,12 +80,6 @@ Screenshots available [here.](https://drive.google.com/drive/folders/1xgbOg6Cjaw
 
 
 
-## Authors
 
-- [@Himanshu Bhatia](https://github.com/himanshubhatia2910)
-- [@Prajwal Kadam](https://github.com/prajwalkadam)
-- [@Harshal Sonawane](https://github.com/HarshallSonawane)
-- [@Amey Dhuri](https://github.com/sayuriyuto)
-- [@Shraddha Bagav](https://github.com/shraddha2403)
-- [@Manasi Patil](https://github.com/ManasiPatil2117)
+
 
